@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^2.0.0",
+    "extend": "^3.0.0",
+    "form-data": "^2.1.1",
     "request": "^2.75.0",
     "slackbots": "^0.5.3",
     "webshot": "^0.18.0"
