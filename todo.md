@@ -12,3 +12,8 @@ A command will tell Smash Bot to start a tourney. It will post a link that will 
   text: 'test message',
   ts: '1476891140.000009',
   team: 'T1KSTTBBL' }
+
+
+### current issues:
+
+* currently trying to add a player when there is no tournament will break the bot. Needs error handling
