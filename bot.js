@@ -1,7 +1,6 @@
-var SmashBot = require('./lib/smashbot');
 require('dotenv').config()
 
-
+var SmashBot = require('./lib/smashbot');
 
 
 var smashbot = new SmashBot({
