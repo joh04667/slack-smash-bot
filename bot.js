@@ -14,4 +14,4 @@ var smashbot = new SmashBot({
   owner: 'kyle.johnson'
 })
 
-smashbot.run()
+smashbot.run();
