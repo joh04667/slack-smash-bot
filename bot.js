@@ -2,7 +2,7 @@
 var http = require('http');
 
 
-http.listen(process.env.PORT || 5000)
+// http.listen(process.env.PORT || 5000)
 
 var SmashBot = require('./lib/smashbot');
 
